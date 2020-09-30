@@ -1,0 +1,43 @@
+// page 1 & 2
+// .home {
+//     display: flex;
+//     // width: 100%;
+//     // .welcome {
+//     //     display: flex;
+//     //     align-items: center;
+//     //     justify-content: center;
+//     //     margin: auto;
+//     //     // max-width: 500px;
+//     // }
+//     .Signup {
+//         display: flex;
+//         align-items: center;
+//         justify-content: center;
+//         margin: auto;
+//         // max-width: 500px;
+//     }
+    
+    
+//     }
+
+.page3 {
+    position: relative;
+    .popUp {
+        width: 400px;
+        position: absolute;
+        right: 30px;
+        bottom: 40px;
+    }
+    .body {
+        display: flex;
+        .createbutton {
+            width: 150px;
+        }
+        .line {
+            width:2px;
+            height: 90vh;
+            background-color: rgb(88, 82, 82);
+            margin: 10px;
+        }
+    }
+}
